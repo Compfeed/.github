@@ -1,6 +1,6 @@
 # Compfeed
 
-Turn your design process into action with our Figma Widget and Dashboard
+Simplify Design System Contributions, and turn your process into action with our Figma Widget and Dashboard.
 
 ![Compfeed example](https://docs.compfeed.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcompfeed.e46acb46.png&w=3840&q=75)
 
